@@ -1,0 +1,17 @@
+# Authentication / Sensitive
+cookies.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Logs and runtime files
+*.log
+*.pid
+
+# Temporary folders
+_subs/
+_ytdlp_test/
